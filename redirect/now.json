@@ -1,0 +1,11 @@
+{
+  "name": "reactconferences-redirect-www",
+  "alias": "www.reactconferences.com",
+  "regions": [
+    "bru"
+  ],
+  "env": {
+    "REDIRECT_URL": "https://reactconferences.com/",
+    "STATUS": "302"
+  }
+}
